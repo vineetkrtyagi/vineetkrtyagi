@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vineet Kumar Tyagi</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
+![](https://komarev.com/ghpvc/?username=vineetkrtyagi&color=blue)
+
+
 - 🌱 I’m currently learning **JavaScript, Python , Django, NodeJS**
 
 - 💬 Ask me about **C++, C, Data Structures and Algorithms**
