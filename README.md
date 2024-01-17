@@ -18,10 +18,11 @@
 </p>
 
 
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetkrtyagi&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10)|![](https://github-readme-stats.vercel.app/api?username=vineetkrtyagi&show_icons=true&locale=en&theme=radical&private_count=true)|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetkrtyagi&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10&private_count=true)
+<!--|![](https://github-readme-stats.vercel.app/api?username=vineetkrtyagi&show_icons=true&locale=en&theme=radical&private_count=true)|-->
 |--------|--------|
 
-![](https://github-readme-streak-stats.herokuapp.com?user=namantam1&theme=radical)
+<!--![](https://github-readme-streak-stats.herokuapp.com?user=namantam1&theme=radical)-->
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=vineetkrtyagi&theme=radical)
 
